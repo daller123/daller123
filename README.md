@@ -2,43 +2,41 @@
 
 <div align="center">
 
-### 🚀 Ingeniería de Software con IA | Sistemas de Voz 🎤 | Plataformas CRM 💼
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;VoIP+%26+CRM+Specialist;Laravel+%7C+PHP+%7C+Node.js+%7C+Python;AI+Software+Engineer;Always+Building+Something+New" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-alex-aller-onocc-1b4731300/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daller123)
-[![Email](https://img.shields.io/badge/Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david.aller123@gmail.com)
+<br>
 
-**Perú 🇵🇪 | Lima | Profesional en Ingeniería de Software con IA | +1 años de experiencia**
+### 🚀 Ingeniería de Software con IA | Sistemas VoIP | CRM Enterprise
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/david-alex-aller-onocc-1b4731300/)
+[![GitHub](https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/daller123)
+[![Profile Views](https://komarev.com/ghpvc/?username=daller123&style=for-the-badge&color=blueviolet)](https://github.com/daller123)
 
 </div>
-## 🚀 Actividad de Contribuciones
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=daller123&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daller123&theme=github_dark" />
 
-<br>
+<br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daller123&theme=github_dark" width="100%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daller123&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daller123&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=daller123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180em"/>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daller123&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=daller123&theme=chartreuse-dark&hide_border=true&area=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=daller123&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
-## �💼 Sobre mí
-
-Soy **Profesional en Ingeniería de Software con IA**, especializado en arquitectura de sistemas complejos y soluciones empresariales de alto impacto con enfoque en inteligencia artificial. Mi experiencia abarca desde backend robusto hasta frontend responsivo, con especialidad en:
-
-- 🎤 **Sistemas de Comunicación VoIP** (WebRTC, Janus, Asterisk, audios en tiempo real)
-- 💼 **Plataformas CRM avanzadas** (Gestión de contactos, carteras, predictivos)
-- 📊 **Inteligencia de Datos** (Análisis de llamadas, reportes, auditoría)
-- 🔧 **Automatización Inteligente** (Bots, flujos, procesos)
-- 🐳 **DevOps & Infraestructura** (Docker, Nginx, MySQL optimizado)
-
-Actualmente liderando el desarrollo de **plataformas integrales de reclutamiento y contacto multicanal** con arquitectura escalable y APIs robustas.
 
 ---
 
