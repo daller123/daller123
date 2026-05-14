@@ -1,4 +1,4 @@
-# 👋 Hola, soy David Alex Aller Onocc
+# David Alex Aller Onocc
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daller123)
 [![Email](https://img.shields.io/badge/Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david.aller123@gmail.com)
 
-**Perú 🇵🇪 | Lima | Profesional en Ingeniería de Software con IA | +3 años de experiencia**
+**Perú 🇵🇪 | Lima | Profesional en Ingeniería de Software con IA | +1 años de experiencia**
 
 </div>
 
