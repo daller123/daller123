@@ -1,3 +1,5 @@
+
+
 # David Alex Aller Onocc
 
 <div align="center">
@@ -26,7 +28,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daller123&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daller123&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 <br><br>
 
