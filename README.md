@@ -13,24 +13,23 @@
 </div>
 
 ---
-
-## � Actividad de Contribuciones
+## 🚀 Actividad de Contribuciones
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=daller123&color=0077B5)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daller123&theme=github-compact&hide_border=true&area=true" width="100%"/>
 
-### Estadísticas GitHub
+<br><br>
 
-| Métrica | Valor |
-|---------|-------|
-| **Contribuciones (últimos 12 meses)** | 137+ |
-| **Repositorios** | Públicos & Privados |
-| **Lenguajes Principales** | PHP, JavaScript, Python |
-| **Especialidades** | Full Stack, VoIP, CRM |
+<img src="https://github-readme-stats.vercel.app/api?username=daller123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daller123&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=daller123&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
-
 ---
 
 ## �💼 Sobre mí
