@@ -11,27 +11,23 @@
 **Perú 🇵🇪 | Lima | Profesional en Ingeniería de Software con IA | +1 años de experiencia**
 
 </div>
-
----
 ## 🚀 Actividad de Contribuciones
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daller123&theme=github-compact&hide_border=true&area=true" width="100%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=daller123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daller123&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=daller123&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=daller123&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daller123&theme=github_dark" width="100%"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=daller123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180em"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daller123&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 
 </div>
----
-
 ## �💼 Sobre mí
 
 Soy **Profesional en Ingeniería de Software con IA**, especializado en arquitectura de sistemas complejos y soluciones empresariales de alto impacto con enfoque en inteligencia artificial. Mi experiencia abarca desde backend robusto hasta frontend responsivo, con especialidad en:
