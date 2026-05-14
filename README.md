@@ -20,7 +20,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=daller123&color=blue&style=flat)
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=daller123&show_icons=true&theme=dark&count_private=true)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=daller123&show_icons=true&theme=dark&count_private=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daller123&theme=dark&layout=compact&hide_border=true)
 
 </div>
 
