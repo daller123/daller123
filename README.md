@@ -25,15 +25,8 @@
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daller123&theme=github_dark" />
 
 <br><br>
-
-
-
-<br><br>
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=daller123&theme=chartreuse-dark&hide_border=true&area=true"/>
-
 <br><br>
-
 <img src="https://streak-stats.demolab.com?user=daller123&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
