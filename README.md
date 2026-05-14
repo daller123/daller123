@@ -14,7 +14,19 @@
 
 ---
 
-## 💼 Sobre mí
+## � Actividad de Contribuciones
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=daller123&color=blue&style=flat)
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=daller123&show_icons=true&theme=dark&count_private=true)
+
+</div>
+
+---
+
+## �💼 Sobre mí
 
 Soy **Profesional en Ingeniería de Software con IA**, especializado en arquitectura de sistemas complejos y soluciones empresariales de alto impacto con enfoque en inteligencia artificial. Mi experiencia abarca desde backend robusto hasta frontend responsivo, con especialidad en:
 
